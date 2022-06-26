@@ -9,11 +9,11 @@
 ## 確認
 
 % docker-compose ps
-Name Command State Ports
-
----
-
-java-spring_java_1 jshell Up 0.0.0.0:8080->8080/tcp
+```
+Name                 Command   State   Ports
+-------------------------------------------------------------
+java-spring_java_1   jshell    Up      0.0.0.0:8080->8080/tcp
+```
 
 ## インスペクション
 
