@@ -29,4 +29,4 @@ root@894bf34204ab:/usr/src/# java Main
 Hello World!
 
 ## 参考
-- http://java.sevendays-study.com/class3.html
+- [一週間で身につくJava言語の基本](http://java.sevendays-study.com/index.html)
