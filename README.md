@@ -21,11 +21,11 @@ java-spring_java_1   jshell    Up      0.0.0.0:8080->8080/tcp
 
 ## コンパイル
 
-root@5b7be900c329:/usr/src# javac Main.java
+root@894bf34204ab:/usr/src/# javac Main.java
 
 ## 実行
 
-root@5b7be900c329:/usr/src# java Main
+root@894bf34204ab:/usr/src/# java Main
 Hello World!
 
 ## 参考
