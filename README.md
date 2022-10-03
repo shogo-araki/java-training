@@ -29,4 +29,5 @@ root@894bf34204ab:/usr/src/# java Main
 Hello World!
 
 ## 参考
-- http://java.sevendays-study.com/class3.html
+- [Docker × Java シンプルすぎる開発環境構築](https://qiita.com/A-Kira/items/0dda255e00771f556e2a)
+- [一週間で身につくJava言語の基本](http://java.sevendays-study.com/index.html)
